@@ -2,7 +2,7 @@
 <Project ToolsVersion="Current"
   xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <BepInExDir>C:\Users\rai\AppData\Roaming\raicuparta\rai-pal\data\mod-loaders\bepinex</BepInExDir>
+    <BepInExDir>C:\Users\josep\AppData\Roaming\raicuparta\rai-pal\data\mod-loaders\bepinex</BepInExDir>
   </PropertyGroup>
 
   <!--  Il2Cpp  -->
