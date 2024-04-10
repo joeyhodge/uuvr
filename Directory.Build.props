@@ -2,7 +2,7 @@
 <Project ToolsVersion="Current"
   xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <BepInExDir>C:\Users\josep\Source\Repos\BepInEx</BepInExDir>
+    <BepInExDir>C:\Users\josep\source\repos\joeyhodge\BepInEx</BepInExDir>
   </PropertyGroup>
 
   <!--  Il2Cpp  -->
